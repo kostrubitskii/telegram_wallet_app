@@ -56,7 +56,7 @@ export const Main = () => {
               <button className={styles.link}>TEST 3</button>
             </Link>
             <Link href="/TestPage4" walletAddress={walletAddress} className={styles.decoration}>
-              <button className={styles.link}>TEST 3</button>
+              <button className={styles.link}>TEST 4</button>
             </Link>
           </div>
         </div>
